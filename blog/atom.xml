@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://recative.github.io/blog</id>
+    <title>Recative System Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://recative.github.io/blog"/>
+    <subtitle>Recative System Blog</subtitle>
+    <icon>https://recative.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://recative.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a place holder.]]></summary>
+        <content type="html"><![CDATA[<p>This is a place holder.</p>]]></content>
+        <author>
+            <name>LOSSES Don</name>
+            <uri>https://github.com/losses</uri>
+        </author>
+    </entry>
+</feed>
