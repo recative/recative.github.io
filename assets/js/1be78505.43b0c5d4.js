@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_recative_documents=self.webpackChunk_recative_documents||[]).push([[514],{5921:(e,t,a)=>{a.r(t),a.d(t,{default:()=>n});var c=a(7294),r=a(683);function n(e){return c.createElement("div",{className:"recative__doc_page_wrap"},c.createElement(r.Z,e))}}}]);
